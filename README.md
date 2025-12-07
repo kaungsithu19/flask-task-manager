@@ -47,7 +47,7 @@ project/
 
 ### 1. Clone the repo
 ```
-git clone https://github.com/yourusername/task-manager.git
+git clone https://github.com/kaungsithu19/flask-task-manager.git
 cd task-manager
 ```
 
